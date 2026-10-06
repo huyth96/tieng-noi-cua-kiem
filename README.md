@@ -13,10 +13,21 @@ Bấm vào khung game một lần để game nhận phím và bật âm thanh. C
 | Shift | Chạy |
 | E / Space / Enter | Tương tác, qua thoại |
 | Tab (giữ) | Tua nhanh thoại |
-| J / chuột trái | Chém (đúng lúc vòng sáng khép lại = Chuẩn nhịp) |
-| K / chuột phải | Trầm kiếm (giữ để đỡ; nhấn ngay trước khi trúng đòn = Hóa giải) |
-| L / Q | Đoạt kiếm (khi Silas sơ hở và Focus đầy) |
+| I | Túi đồ: xem và dùng vật phẩm (Q / E đổi mục) |
+| O | Võ học: các chiêu đã học, gắn chiêu vào phím 1–4 |
 | Esc | Tạm dừng |
 | F11 | Toàn màn hình |
+
+Trận đấu tập với cha (Nhịp 3) đánh theo lượt, lượt theo tốc độ:
+
+| Phím | Hành động |
+|---|---|
+| WASD / phím mũi tên, chuột | Đi (tối đa 3 ô mỗi lượt), click ô sáng để đi tới đó |
+| J / click vào cha | Chém (từ hông hoặc sau lưng phá thế mạnh gấp đôi) |
+| K / chuột phải | Thế thủ: vào thế và hết lượt, đòn trúng chỉ còn một nửa |
+| 1–4 | Chiêu trên thanh chiêu (Liên trảm, Đoạt kiếm) |
+| I / O | Túi đồ / Võ học ngay trong trận |
+| Space | Nghỉ |
+| Z | Lui lại các bước vừa đi |
 
 Repo này chỉ chứa bản build web đã đóng gói của game (xuất bằng Godot 4.7).
