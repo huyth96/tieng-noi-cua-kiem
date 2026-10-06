@@ -1,9 +1,9 @@
-# Tiếng Nói Của Kiếm — Act 1 (bản chơi thử trên web)
+# Voice of the Sword (Tiếng Nói Của Kiếm) — Act 1 (bản chơi thử trên web)
 
 **Chơi ngay:** https://huyth96.github.io/tieng-noi-cua-kiem/
 
 Nên chơi trên máy tính (Chrome / Edge / Firefox), có bàn phím. Lần đầu mở trang cần chờ tải khoảng 60 MB.
-Bấm vào khung game một lần để game nhận phím và bật âm thanh.
+Bấm vào khung game một lần để game nhận phím và bật âm thanh. Chữ trong game hiện bằng tiếng Anh.
 
 ## Điều khiển
 
